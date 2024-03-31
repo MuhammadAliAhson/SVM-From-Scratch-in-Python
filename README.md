@@ -37,6 +37,9 @@ python svm_classifier.py
 ## Output
 The script outputs the predictions made by the SVM classifier and the actual labels from the testing set. It also prints the accuracy of the classification.
 
+## Medium Article
+- [[Link to Medium article](https://medium.com/dev-genius/exploring-svms-potential-with-the-iris-dataset-359fc2de8962)](#) - Share your Medium article discussing this project and your insights.
+
 ## Author
 This script is authored by [Muhammad Ali Ahson].
 
